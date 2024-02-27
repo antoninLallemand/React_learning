@@ -1,0 +1,27 @@
+.sdf-sensorList{
+    float: left;
+    /* border: 1px solid red; */
+}
+
+.sdf-sensorList ul {
+    list-style-type: none;  /*remove points*/
+    flex : 1;
+    padding: 25px;
+}
+
+.sdf-sensorList ul li{
+    display: inline;
+    margin-right: 10px;
+    color: blanchedalmond;
+    background-color: cadetblue;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.sdf-sensorList ul li:hover{
+    background-color: chocolate;
+}
+
+.sdf-specialoffer{
+    color: blueviolet;
+}

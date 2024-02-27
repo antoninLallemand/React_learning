@@ -1,0 +1,12 @@
+.sdf-banner {
+    text-align: center;
+    background-color: cadetblue;
+    /* border: 1px solid blanchedalmond; */
+    color: antiquewhite;
+    border-radius: 8px;
+}
+
+.sdf-logo{
+    width: 100px;
+    height: auto;
+}

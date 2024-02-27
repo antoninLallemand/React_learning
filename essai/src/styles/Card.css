@@ -1,0 +1,8 @@
+.sdf-card{
+    background-color: brown;
+    border-radius: 8px;
+    font-size: 30px;
+    padding: 20px;
+    width: 20%;
+    float: left;
+}
